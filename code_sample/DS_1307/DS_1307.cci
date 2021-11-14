@@ -1,0 +1,12 @@
+VERSION:3 SOURCE_TIMESTAMP:5187080B
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega328p.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:27 "j -> R3,R4"
+NODE:V LEVEL:0 LINE:29 "LED7SEGCA -> RAM:????"
+NODE:I LEVEL:0 LINE:32 "C:\cvavr\inc\i2c.h"
+NODE:I LEVEL:0 LINE:35 "C:\cvavr\inc\ds1307.h"
+NODE:V LEVEL:0 LINE:39 "*hour -> R5,R6"
+NODE:V LEVEL:0 LINE:40 "*minute -> R7,R8"
+NODE:V LEVEL:0 LINE:41 "*second -> R9,R10"
+NODE:F LEVEL:0 LINE:43 "display(unsigned char time)"
+NODE:F LEVEL:0 LINE:73 "main(void)"

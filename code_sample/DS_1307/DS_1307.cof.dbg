@@ -1,0 +1,1091 @@
+Magic number:                    0A12
+Number of sections:              0002
+Time & date stamp:               5FCD7EA6
+File pointer to symbolic header: 000008F8
+Sizeof(symbolic hdr):            00000027
+Sizeof(optional hdr):            001C
+Flags:                           00FF
+Magic number:  0406
+Version stamp: 0006
+Text size:     0
+Data size:     0
+BSS size:      0
+Entry point:   0
+Text start:    0
+Data start:    0
+Section name:                     .text
+Physical address, aliased s_nlib: 00000000
+Virtual address:                  00000000
+Section size:                     00000464
+File ptr to raw data for section: 00000080
+File ptr to relocation:           00000000
+Number of relocation entries:     0000
+Number of line number entries:    00AE
+Flags:                            00000020
+Section name:                     .bss
+Physical address, aliased s_nlib: 00000100
+Virtual address:                  00000100
+Section size:                     00000000
+File ptr to raw data for section: 00000000
+File ptr to relocation:           00000000
+Number of relocation entries:     0000
+Number of line number entries:    0000
+Flags:                            00000080
+Line numbers for function with symbol 14:
+Line 1: 0x00D8
+Line 2: 0x00D8
+Line 3: 0x00DC
+Line 4: 0x00DE
+Line 5: 0x00E0
+Line 6: 0x00E2
+Line 7: 0x00F0
+Line 8: 0x00F0
+Line 9: 0x00FC
+Line 10: 0x00FE
+Line 11: 0x0102
+Line 12: 0x0104
+Line 13: 0x0104
+Line 14: 0x011A
+Line 15: 0x011C
+Line 16: 0x0120
+Line 17: 0x0122
+Line 18: 0x0122
+Line 19: 0x0138
+Line 20: 0x013A
+Line 21: 0x013E
+Line 22: 0x0140
+Line 23: 0x0140
+Line 24: 0x0154
+Line 25: 0x0156
+Line 26: 0x015A
+Line numbers for function with symbol 25:
+Line 1: 0x016A
+Line 2: 0x016A
+Line 3: 0x016A
+Line 4: 0x016A
+Line 5: 0x016A
+Line 6: 0x016A
+Line 7: 0x0170
+Line 8: 0x0176
+Line 9: 0x0176
+Line 10: 0x0176
+Line 11: 0x0176
+Line 12: 0x0176
+Line 13: 0x0176
+Line 14: 0x0176
+Line 15: 0x0176
+Line 16: 0x017A
+Line 17: 0x017A
+Line 18: 0x017E
+Line 19: 0x017E
+Line 20: 0x017E
+Line 21: 0x017E
+Line 22: 0x0180
+Line 23: 0x0180
+Line 24: 0x0182
+Line 25: 0x0182
+Line 26: 0x0182
+Line 27: 0x0182
+Line 28: 0x0186
+Line 29: 0x0186
+Line 30: 0x018A
+Line 31: 0x018A
+Line 32: 0x018A
+Line 33: 0x018A
+Line 34: 0x018A
+Line 35: 0x018A
+Line 36: 0x018A
+Line 37: 0x018A
+Line 38: 0x018C
+Line 39: 0x018E
+Line 40: 0x0190
+Line 41: 0x0192
+Line 42: 0x0194
+Line 43: 0x0194
+Line 44: 0x0194
+Line 45: 0x0194
+Line 46: 0x0194
+Line 47: 0x0194
+Line 48: 0x0194
+Line 49: 0x0194
+Line 50: 0x0194
+Line 51: 0x0194
+Line 52: 0x0194
+Line 53: 0x0194
+Line 54: 0x0194
+Line 55: 0x0194
+Line 56: 0x0198
+Line 57: 0x019C
+Line 58: 0x01A0
+Line 59: 0x01A4
+Line 60: 0x01A8
+Line 61: 0x01AC
+Line 62: 0x01B0
+Line 63: 0x01B4
+Line 64: 0x01B8
+Line 65: 0x01BC
+Line 66: 0x01BC
+Line 67: 0x01BC
+Line 68: 0x01BC
+Line 69: 0x01BC
+Line 70: 0x01BC
+Line 71: 0x01BC
+Line 72: 0x01BC
+Line 73: 0x01C0
+Line 74: 0x01C4
+Line 75: 0x01C8
+Line 76: 0x01CC
+Line 77: 0x01D0
+Line 78: 0x01D4
+Line 79: 0x01D4
+Line 80: 0x01D4
+Line 81: 0x01D8
+Line 82: 0x01D8
+Line 83: 0x01D8
+Line 84: 0x01DC
+Line 85: 0x01DC
+Line 86: 0x01DC
+Line 87: 0x01E0
+Line 88: 0x01E0
+Line 89: 0x01E0
+Line 90: 0x01E0
+Line 91: 0x01E0
+Line 92: 0x01E0
+Line 93: 0x01E0
+Line 94: 0x01E0
+Line 95: 0x01E4
+Line 96: 0x01E6
+Line 97: 0x01EA
+Line 98: 0x01EA
+Line 99: 0x01EA
+Line 100: 0x01EA
+Line 101: 0x01EE
+Line 102: 0x01EE
+Line 103: 0x01EE
+Line 104: 0x01EE
+Line 105: 0x01EE
+Line 106: 0x01EE
+Line 107: 0x01EE
+Line 108: 0x01EE
+Line 109: 0x01F2
+Line 110: 0x01F8
+Line 111: 0x01F8
+Line 112: 0x01F8
+Line 113: 0x01FC
+Line 114: 0x01FC
+Line 115: 0x01FC
+Line 116: 0x01FC
+Line 117: 0x0200
+Line 118: 0x0200
+Line 119: 0x0200
+Line 120: 0x0200
+Line 121: 0x0202
+Line 122: 0x0202
+Line 123: 0x0202
+Line 124: 0x0202
+Line 125: 0x0206
+Line 126: 0x0206
+Line 127: 0x0206
+Line 128: 0x0206
+Line 129: 0x0206
+Line 130: 0x0206
+Line 131: 0x0206
+Line 132: 0x0206
+Line 133: 0x0206
+Line 134: 0x020A
+Line 135: 0x020A
+Line 136: 0x020A
+Line 137: 0x020A
+Line 138: 0x020A
+Line 139: 0x0214
+Line 140: 0x0214
+Line 141: 0x0220
+Line 142: 0x022E
+Line 143: 0x022E
+Line 144: 0x022E
+Line 145: 0x022E
+Line 146: 0x022E
+SYMBOL [0] 
+  name .file 
+    zeroes 1818846766 
+    offset 101 
+  value 37 
+  section -2 
+  type 0/00 - T_NULL
+  storage 103 - C_FILE
+  aux entries 4 
+SYMBOL [0] 
+  name .file 
+    zeroes 1818846766 
+    offset 101 
+  value 37 
+  section -2 
+  type 0/00 - T_NULL
+  storage 103 - C_FILE
+  aux entries 4 
+SYMBOL [1] 
+  name D:\VuMin 
+    zeroes 1448884804 
+    offset 1852394869 
+  value 1869041256 
+  section 23651 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [1] 
+  x_sym.x_tagndx 1448884804 
+  x_sym.x_misc.x_lnsz.x_lnno 19829 
+  x_sym.x_misc.x_lnsz.x_size 28265 
+  x_sym.x_misc.x_fsize 1852394869 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 1869041256 
+  x_sym.x_fcnary.x_fcn.x_endndx 23651 
+  x_sym.x_fcnary.x_ary.x_dimen 20072 28519 23651 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname D:\VuMinhNgoc\ 
+  x_file.x_n.x_zeroes 1448884804 
+  x_file.x_n.x_offset 1852394869 
+  x_scn.x_scnlen 1448884804 
+  x_scn.x_nreloc 19829 
+  x_scn.x_nlinno 28265 
+  x_tv.x_tvfill 1448884804 
+  x_tv.x_tvlen 19829 
+  x_tv.x_tvran 28265 20072
+SYMBOL [2] 
+  name AVR_328\ 
+    zeroes 1599231553 
+    offset 1547186739 
+  value 1701080899 
+  section 16735 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [2] 
+  x_sym.x_tagndx 1599231553 
+  x_sym.x_misc.x_lnsz.x_lnno 12851 
+  x_sym.x_misc.x_lnsz.x_size 23608 
+  x_sym.x_misc.x_fsize 1547186739 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 1701080899 
+  x_sym.x_fcnary.x_fcn.x_endndx 16735 
+  x_sym.x_fcnary.x_ary.x_dimen 28483 25956 16735 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname AVR_328\Code_A 
+  x_file.x_n.x_zeroes 1599231553 
+  x_file.x_n.x_offset 1547186739 
+  x_scn.x_scnlen 1599231553 
+  x_scn.x_nreloc 12851 
+  x_scn.x_nlinno 23608 
+  x_tv.x_tvfill 1599231553 
+  x_tv.x_tvlen 12851 
+  x_tv.x_tvran 23608 28483
+SYMBOL [3] 
+  name VR_328\D 
+    zeroes 861885014 
+    offset 1146894386 
+  value 858873683 
+  section 14128 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [3] 
+  x_sym.x_tagndx 861885014 
+  x_sym.x_misc.x_lnsz.x_lnno 14386 
+  x_sym.x_misc.x_lnsz.x_size 17500 
+  x_sym.x_misc.x_fsize 1146894386 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 858873683 
+  x_sym.x_fcnary.x_fcn.x_endndx 14128 
+  x_sym.x_fcnary.x_ary.x_dimen 24403 13105 14128 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname VR_328\DS_1307 
+  x_file.x_n.x_zeroes 861885014 
+  x_file.x_n.x_offset 1146894386 
+  x_scn.x_scnlen 861885014 
+  x_scn.x_nreloc 14386 
+  x_scn.x_nlinno 17500 
+  x_tv.x_tvfill 861885014 
+  x_tv.x_tvlen 14386 
+  x_tv.x_tvran 17500 24403
+SYMBOL [4] 
+  name \DS_1307 
+    zeroes 1599292508 
+    offset 925905713 
+  value 25390 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [4] 
+  x_sym.x_tagndx 1599292508 
+  x_sym.x_misc.x_lnsz.x_lnno 13105 
+  x_sym.x_misc.x_lnsz.x_size 14128 
+  x_sym.x_misc.x_fsize 925905713 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 25390 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 25390 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname \DS_1307.c 
+  x_file.x_n.x_zeroes 1599292508 
+  x_file.x_n.x_offset 925905713 
+  x_scn.x_scnlen 1599292508 
+  x_scn.x_nreloc 13105 
+  x_scn.x_nlinno 14128 
+  x_tv.x_tvfill 1599292508 
+  x_tv.x_tvlen 13105 
+  x_tv.x_tvran 14128 25390
+SYMBOL [5] 
+  name j 
+    zeroes 106 
+    offset 0 
+  value -64509 
+  section 0 
+  type 4/04 - T_INT
+  storage 17 - C_REGPARM
+  aux entries 0 
+SYMBOL [5] 
+  name j 
+    zeroes 106 
+    offset 0 
+  value -64509 
+  section 0 
+  type 4/04 - T_INT
+  storage 17 - C_REGPARM
+  aux entries 0 
+SYMBOL [6] 
+  name  
+    zeroes 0 
+    offset 4 
+  value 768 
+  section 0 
+  type 60/3C - Unknown
+  storage 3 - C_STAT
+  aux entries 1 
+SYMBOL [6] 
+  name  
+    zeroes 0 
+    offset 4 
+  value 768 
+  section 0 
+  type 60/3C - Unknown
+  storage 3 - C_STAT
+  aux entries 1 
+SYMBOL [7] 
+  name  
+    zeroes 0 
+    offset 720925 
+  value 11 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [7] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 29 
+  x_sym.x_misc.x_lnsz.x_size 11 
+  x_sym.x_misc.x_fsize 720925 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 11 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 11 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 720925 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 29 
+  x_scn.x_nlinno 11 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 29 
+  x_tv.x_tvran 11 11
+SYMBOL [8] 
+  name hour 
+    zeroes 1920298856 
+    offset 0 
+  value -63995 
+  section 0 
+  type 28/1C - Unknown
+  storage 17 - C_REGPARM
+  aux entries 1 
+SYMBOL [8] 
+  name hour 
+    zeroes 1920298856 
+    offset 0 
+  value -63995 
+  section 0 
+  type 28/1C - Unknown
+  storage 17 - C_REGPARM
+  aux entries 1 
+SYMBOL [9] 
+  name  
+    zeroes 0 
+    offset 131111 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [9] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 39 
+  x_sym.x_misc.x_lnsz.x_size 2 
+  x_sym.x_misc.x_fsize 131111 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 131111 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 39 
+  x_scn.x_nlinno 2 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 39 
+  x_tv.x_tvran 2 0
+SYMBOL [10] 
+  name minute 
+    zeroes 1970170221 
+    offset 25972 
+  value -63481 
+  section 0 
+  type 28/1C - Unknown
+  storage 17 - C_REGPARM
+  aux entries 1 
+SYMBOL [10] 
+  name minute 
+    zeroes 1970170221 
+    offset 25972 
+  value -63481 
+  section 0 
+  type 28/1C - Unknown
+  storage 17 - C_REGPARM
+  aux entries 1 
+SYMBOL [11] 
+  name  
+    zeroes 0 
+    offset 131112 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [11] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 40 
+  x_sym.x_misc.x_lnsz.x_size 2 
+  x_sym.x_misc.x_fsize 131112 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 131112 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 40 
+  x_scn.x_nlinno 2 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 40 
+  x_tv.x_tvran 2 0
+SYMBOL [12] 
+  name second 
+    zeroes 1868785011 
+    offset 25710 
+  value -62967 
+  section 0 
+  type 28/1C - Unknown
+  storage 17 - C_REGPARM
+  aux entries 1 
+SYMBOL [12] 
+  name second 
+    zeroes 1868785011 
+    offset 25710 
+  value -62967 
+  section 0 
+  type 28/1C - Unknown
+  storage 17 - C_REGPARM
+  aux entries 1 
+SYMBOL [13] 
+  name  
+    zeroes 0 
+    offset 131113 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [13] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 41 
+  x_sym.x_misc.x_lnsz.x_size 2 
+  x_sym.x_misc.x_fsize 131113 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 131113 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 41 
+  x_scn.x_nlinno 2 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 41 
+  x_tv.x_tvran 2 0
+SYMBOL [14] 
+  name display 
+    zeroes 1886611812 
+    offset 7954796 
+  value 216 
+  section 1 
+  type 36/24 - Unknown
+  storage 2 - C_EXT
+  aux entries 1 
+SYMBOL [14] 
+  name display 
+    zeroes 1886611812 
+    offset 7954796 
+  value 216 
+  section 1 
+  type 36/24 - Unknown
+  storage 2 - C_EXT
+  aux entries 1 
+SYMBOL [15] 
+  name  
+    zeroes 0 
+    offset 141 
+  value 1252 
+  section 25 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [15] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 141 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 141 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 1252 
+  x_sym.x_fcnary.x_fcn.x_endndx 25 
+  x_sym.x_fcnary.x_ary.x_dimen 1252 0 25 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 141 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 141 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 141 
+  x_tv.x_tvran 0 1252
+SYMBOL [16] 
+  name .bf 
+    zeroes 6709806 
+    offset 0 
+  value 216 
+  section 1 
+  type 0/00 - T_NULL
+  storage 101 - C_FCN
+  aux entries 1 
+SYMBOL [16] 
+  name .bf 
+    zeroes 6709806 
+    offset 0 
+  value 216 
+  section 1 
+  type 0/00 - T_NULL
+  storage 101 - C_FCN
+  aux entries 1 
+SYMBOL [17] 
+  name  
+    zeroes 0 
+    offset 44 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [17] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 44 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 44 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 44 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 44 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 44 
+  x_tv.x_tvran 0 0
+SYMBOL [18] 
+  name .bb 
+    zeroes 6447662 
+    offset 0 
+  value 216 
+  section 1 
+  type 0/00 - T_NULL
+  storage 100 - C_BLOCK
+  aux entries 1 
+SYMBOL [18] 
+  name .bb 
+    zeroes 6447662 
+    offset 0 
+  value 216 
+  section 1 
+  type 0/00 - T_NULL
+  storage 100 - C_BLOCK
+  aux entries 1 
+SYMBOL [19] 
+  name  
+    zeroes 0 
+    offset 44 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [19] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 44 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 44 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 44 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 44 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 44 
+  x_tv.x_tvran 0 0
+SYMBOL [20] 
+  name time 
+    zeroes 1701669236 
+    offset 0 
+  value 0 
+  section -1 
+  type 12/0C - T_UCHAR
+  storage 1 - C_AUTO
+  aux entries 0 
+SYMBOL [20] 
+  name time 
+    zeroes 1701669236 
+    offset 0 
+  value 0 
+  section -1 
+  type 12/0C - T_UCHAR
+  storage 1 - C_AUTO
+  aux entries 0 
+SYMBOL [21] 
+  name .eb 
+    zeroes 6448430 
+    offset 0 
+  value 358 
+  section 1 
+  type 0/00 - T_NULL
+  storage 100 - C_BLOCK
+  aux entries 1 
+SYMBOL [21] 
+  name .eb 
+    zeroes 6448430 
+    offset 0 
+  value 358 
+  section 1 
+  type 0/00 - T_NULL
+  storage 100 - C_BLOCK
+  aux entries 1 
+SYMBOL [22] 
+  name  
+    zeroes 0 
+    offset 0 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [22] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 0 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 0 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 0 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 0 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 0 
+  x_tv.x_tvran 0 0
+SYMBOL [23] 
+  name .ef 
+    zeroes 6710574 
+    offset 0 
+  value 0 
+  section 1 
+  type 0/00 - T_NULL
+  storage 101 - C_FCN
+  aux entries 1 
+FIXUP: Function start block symbol 16 did point to symbol 0, now set to point to symbol 25
+SYMBOL [23] 
+  name .ef 
+    zeroes 6710574 
+    offset 0 
+  value 0 
+  section 1 
+  type 0/00 - T_NULL
+  storage 101 - C_FCN
+  aux entries 1 
+SYMBOL [24] 
+  name  
+    zeroes 0 
+    offset 69 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [24] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 69 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 69 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 69 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 69 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 69 
+  x_tv.x_tvran 0 0
+SYMBOL [25] 
+  name main 
+    zeroes 1852399981 
+    offset 0 
+  value 362 
+  section 1 
+  type 36/24 - Unknown
+  storage 2 - C_EXT
+  aux entries 1 
+SYMBOL [25] 
+  name main 
+    zeroes 1852399981 
+    offset 0 
+  value 362 
+  section 1 
+  type 36/24 - Unknown
+  storage 2 - C_EXT
+  aux entries 1 
+SYMBOL [26] 
+  name  
+    zeroes 0 
+    offset 205 
+  value 1414 
+  section 35 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [26] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 205 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 205 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 1414 
+  x_sym.x_fcnary.x_fcn.x_endndx 35 
+  x_sym.x_fcnary.x_ary.x_dimen 1414 0 35 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 205 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 205 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 205 
+  x_tv.x_tvran 0 1414
+SYMBOL [27] 
+  name .bf 
+    zeroes 6709806 
+    offset 0 
+  value 362 
+  section 1 
+  type 0/00 - T_NULL
+  storage 101 - C_FCN
+  aux entries 1 
+SYMBOL [27] 
+  name .bf 
+    zeroes 6709806 
+    offset 0 
+  value 362 
+  section 1 
+  type 0/00 - T_NULL
+  storage 101 - C_FCN
+  aux entries 1 
+SYMBOL [28] 
+  name  
+    zeroes 0 
+    offset 74 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [28] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 74 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 74 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 74 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 74 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 74 
+  x_tv.x_tvran 0 0
+SYMBOL [29] 
+  name .bb 
+    zeroes 6447662 
+    offset 0 
+  value 362 
+  section 1 
+  type 0/00 - T_NULL
+  storage 100 - C_BLOCK
+  aux entries 1 
+SYMBOL [29] 
+  name .bb 
+    zeroes 6447662 
+    offset 0 
+  value 362 
+  section 1 
+  type 0/00 - T_NULL
+  storage 100 - C_BLOCK
+  aux entries 1 
+SYMBOL [30] 
+  name  
+    zeroes 0 
+    offset 74 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [30] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 74 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 74 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 74 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 74 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 74 
+  x_tv.x_tvran 0 0
+SYMBOL [31] 
+  name .eb 
+    zeroes 6448430 
+    offset 0 
+  value 568 
+  section 1 
+  type 0/00 - T_NULL
+  storage 100 - C_BLOCK
+  aux entries 1 
+SYMBOL [31] 
+  name .eb 
+    zeroes 6448430 
+    offset 0 
+  value 568 
+  section 1 
+  type 0/00 - T_NULL
+  storage 100 - C_BLOCK
+  aux entries 1 
+SYMBOL [32] 
+  name  
+    zeroes 0 
+    offset 0 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [32] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 0 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 0 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 0 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 0 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 0 
+  x_tv.x_tvran 0 0
+SYMBOL [33] 
+  name .ef 
+    zeroes 6710574 
+    offset 0 
+  value 0 
+  section 1 
+  type 0/00 - T_NULL
+  storage 101 - C_FCN
+  aux entries 1 
+FIXUP: Function start block symbol 27 did point to symbol 0, now set to point to symbol 35
+SYMBOL [33] 
+  name .ef 
+    zeroes 6710574 
+    offset 0 
+  value 0 
+  section 1 
+  type 0/00 - T_NULL
+  storage 101 - C_FCN
+  aux entries 1 
+SYMBOL [34] 
+  name  
+    zeroes 0 
+    offset 219 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [34] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 219 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 219 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 219 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 219 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 219 
+  x_tv.x_tvran 0 0
+SYMBOL [35] 
+  name .text 
+    zeroes 2019914798 
+    offset 116 
+  value 0 
+  section 1 
+  type 0/00 - T_NULL
+  storage 3 - C_STAT
+  aux entries 1 
+SYMBOL [35] 
+  name .text 
+    zeroes 2019914798 
+    offset 116 
+  value 0 
+  section 1 
+  type 0/00 - T_NULL
+  storage 3 - C_STAT
+  aux entries 1 
+SYMBOL [36] 
+  name d 
+    zeroes 1124 
+    offset 11403264 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [36] 
+  x_sym.x_tagndx 1124 
+  x_sym.x_misc.x_lnsz.x_lnno 0 
+  x_sym.x_misc.x_lnsz.x_size 174 
+  x_sym.x_misc.x_fsize 11403264 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname d 
+  x_file.x_n.x_zeroes 1124 
+  x_file.x_n.x_offset 11403264 
+  x_scn.x_scnlen 1124 
+  x_scn.x_nreloc 0 
+  x_scn.x_nlinno 174 
+  x_tv.x_tvfill 1124 
+  x_tv.x_tvlen 0 
+  x_tv.x_tvran 174 0
+SYMBOL [37] 
+  name .bss 
+    zeroes 1936941614 
+    offset 0 
+  value 256 
+  section 2 
+  type 0/00 - T_NULL
+  storage 3 - C_STAT
+  aux entries 1 
+SYMBOL [37] 
+  name .bss 
+    zeroes 1936941614 
+    offset 0 
+  value 256 
+  section 2 
+  type 0/00 - T_NULL
+  storage 3 - C_STAT
+  aux entries 1 
+SYMBOL [38] 
+  name  
+    zeroes 0 
+    offset 0 
+  value 0 
+  section 0 
+  type 0/00 - T_NULL
+  storage 0 - C_NULL
+  aux entries 0 
+AUX [38] 
+  x_sym.x_tagndx 0 
+  x_sym.x_misc.x_lnsz.x_lnno 0 
+  x_sym.x_misc.x_lnsz.x_size 0 
+  x_sym.x_misc.x_fsize 0 
+  x_sym.x_fcnary.x_fcn.x_lnnoptr 0 
+  x_sym.x_fcnary.x_fcn.x_endndx 0 
+  x_sym.x_fcnary.x_ary.x_dimen 0 0 0 0 
+  x_sym.x_tvndx 0 
+  x_file.x_fname  
+  x_file.x_n.x_zeroes 0 
+  x_file.x_n.x_offset 0 
+  x_scn.x_scnlen 0 
+  x_scn.x_nreloc 0 
+  x_scn.x_nlinno 0 
+  x_tv.x_tvfill 0 
+  x_tv.x_tvlen 0 
+  x_tv.x_tvran 0 0
